@@ -1,3 +1,4 @@
+<pre>
 IPS.sh [-h] [-a n] [-t n] [-p str] [-k str]  
 
 A simple intrusion prevention system to block suspicious addresses from bruteforcing your accounts  
@@ -15,3 +16,4 @@ Requirements:
 	- root permission to run script  
 	- absolute path to non-default log file   
 	- exact spelling and format of key phrase for authentication failure in non-default log file  
+</pre>
