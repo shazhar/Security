@@ -1,3 +1,4 @@
+<pre>
 A simple TCP Client/Server application that uses a "heartbeat" protocol
 
 Requires: 
@@ -22,3 +23,4 @@ optional arguments:
   --terminate TERMINATE
                         Terminate connection after specified number of packets
                         sent. Value must be greater than 0
+</pre>
